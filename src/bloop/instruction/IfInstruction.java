@@ -1,4 +1,4 @@
-package bloop;
+package bloop.instruction;
 
 public class IfInstruction {
     
