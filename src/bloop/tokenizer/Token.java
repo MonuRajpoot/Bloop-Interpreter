@@ -1,4 +1,4 @@
-
+package bloop.tokenizer;
 public class Token {
 
     // every token has three things:

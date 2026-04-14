@@ -1,5 +1,5 @@
 
-
+package bloop.tokenizer;
 public enum TokenType {
 
     // -----------------------------------------------
