@@ -1,5 +1,4 @@
 package bloop.instruction;
-
 import bloop.Environment;
 import bloop.expression.Expression;
 import java.util.List;
